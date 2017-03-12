@@ -1,0 +1,65 @@
+     * Directory: 0x0F-networking_basics_2
+
+ 
+ 
+ 
+ 
+ 
+ 0. Localhost 
+     * File: 0-localhost
+1. All IPs 
+     * File: 1-wildcard
+2. Change your home IP 
+   Write a Bash script that configures a Ubuntu server with the below
+     * File: 2-change_your_home_IP
+3. Show attached IPs 
+   Write a Bash script that displays all active IPv4 IPs on the machine
+     * File: 3-show_attached_IPs
+4. Port listening on localhost #
+   Write a Bash script that listens on port 98 on localhost.
+     * File: 4-port_listening_on_localhost
+     * Altogether: 80.0%  & 100.0% optional   => 80.0% + (80.0%
+     * 1.0 out of 1 points - Write a Bash script that listens on port `98`
+0. Localhost 
+     * File: 0-localhost
+1. All IPs 
+     * File: 1-wildcard
+2. Change your home IP 
+   Write a Bash script that configures a Ubuntu server with the below
+     * File: 2-change_your_home_IP
+3. Show attached IPs 
+   Write a Bash script that displays all active IPv4 IPs on the machine
+     * File: 3-show_attached_IPs
+4. Port listening on localhost #
+   Write a Bash script that listens on port 98 on localhost.
+     * File: 4-port_listening_on_localhost
+     * Altogether: 80.0%  & 100.0% optional   => 80.0% + (80.0%
+     * 1.0 out of 1 points - Write a Bash script that listens on port `98`
+0. Localhost 
+     * File: 0-localhost
+1. All IPs 
+     * File: 1-wildcard
+2. Change your home IP 
+   Write a Bash script that configures a Ubuntu server with the below
+     * File: 2-change_your_home_IP
+3. Show attached IPs 
+   Write a Bash script that displays all active IPv4 IPs on the machine
+     * File: 3-show_attached_IPs
+4. Port listening on localhost #
+   Write a Bash script that listens on port 98 on localhost.
+     * File: 4-port_listening_on_localhost
+     * Altogether: 80.0%  & 100.0% optional   => 80.0% + (80.0%
+     * 1.0 out of 1 points - Write a Bash script that listens on port `98`
+0. Localhost 
+     * File: 0-localhost
+1. All IPs 
+     * File: 1-wildcard
+2. Change your home IP 
+   Write a Bash script that configures a Ubuntu server with the below
+     * File: 2-change_your_home_IP
+3. Show attached IPs 
+   Write a Bash script that displays all active IPv4 IPs on the machine
+     * File: 3-show_attached_IPs
+4. Port listening on localhost #
+   Write a Bash script that listens on port 98 on localhost.
+     * File: 4-port_listening_on_localhost
