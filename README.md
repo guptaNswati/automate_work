@@ -7,5 +7,5 @@ create_readme.sh - a bash script that creates README for my projects
 - use lynx projectURL
 - enter login credentials
 - enter P, file name /tmp/temp1.txt enter Q
-- needs execution permissions ``` u+x create_readme.sh```
-- execute ./create_readme.sh
+- needs execution permissions ``` chmod u+x create_readme.sh```
+- execute ./create_readme.sh with path to folder to save readme
