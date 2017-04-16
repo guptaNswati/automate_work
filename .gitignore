@@ -1,0 +1,13 @@
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+*.pyc
+a.out
+access.py
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
