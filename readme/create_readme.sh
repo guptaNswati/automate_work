@@ -8,11 +8,11 @@
 
 file_to_parse="/tmp/temp1.txt"
 file_to_create="/tmp/temp.txt"
-filter_out="BUTTON|Help|Score|Done|Examples|Example|example|review"
-filter_in="mandatory|advanced|Write|Directory|File"
+filter_out="BUTTON|Help|Score|Done|Examples|Example|Repo|test|container|@|review"
+filter_in="mandatory|advanced|write|directory|file|"
 
 
-lynx -dump $file_to_parse | grep -A20000 "Tasks" | tail -n+2 | grep -vE "$filter_out" | grep -E "$filter_in" >> $file_to_create
+lynx -dump $file_to_parse | grep -A20000 "Tasks" | tail -n+2 | grep -ivE "$filter_out" | grep -E "$filter_in" >> $file_to_create
 
 
 # save directory name for  the heading of the readme
@@ -30,4 +30,4 @@ mv $file_to_create "$1/README.md"
 
 
 # to remove unwanted end lines
-# head -n -2 $file_to_create >> "$1/README.md"
+#head -n -2 $file_to_create >> "$1/README.md"
